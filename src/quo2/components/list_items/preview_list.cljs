@@ -21,6 +21,12 @@
        :hole-size     26
        :hole-x        19
        :hole-y        -1}
+   20 {:border-radius {:circular 10 :rounded 8}
+       :hole-radius   {:circular 11 :rounded 9}
+       :margin-left   -4
+       :hole-size     22
+       :hole-x        15
+       :hole-y        -1}
    16 {:border-radius {:circular 8 :rounded 8}
        :hole-radius   {:circular 9 :rounded 9}
        :margin-left   -4
