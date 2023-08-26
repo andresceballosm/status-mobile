@@ -55,6 +55,7 @@
     [quo2.components.settings.reorder-item.component-spec]
     [quo2.components.settings.settings-list.component-spec]
     [quo2.components.settings.category.component-spec]
+    [quo2.components.settings.data-item.component-spec]
     [quo2.components.share.share-qr-code.component-spec]
     [quo2.components.tags.--tests--.status-tags-component-spec]
     [quo2.components.tags.network-tags.component-spec]
